@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Manjari&family=Open+Sans&display=swap');
+body{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+.font-bold{
+  font-size: 20px;
+  font-weight: bold;
+}
+.p{
+  padding: 0 10px;
+}
+.position-relative{
+  position: relative;
+}
+.position-absolute{
+  position: absolute;
+}
+.e-bold{
+  font-size: 30px;
+}
+.text-center{
+  text-align: center;
+}
+button{
+  border:  none;
+  color: rgb(11,11,69);
+  padding: 10px;
+  border-radius: 5px;
+  min-width: 150px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn-heavy{
+  background-color: orange;
+}
+.btn-light{
+  background-color: transparent;
+  border: 2px solid white;
+}
