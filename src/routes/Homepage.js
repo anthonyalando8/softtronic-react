@@ -25,7 +25,7 @@ const Homepage = () => {
               </div>  
           </div>
           <div className='position-absolute top-attach-two'>
-            <img src='https://ik.imagekit.io/anthonyalando/Softtronic/happy-businesswoman-talking-phone.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673774872117' alt='top-attach-two'/>
+            <img src='https://ik.imagekit.io/anthonyalando/Softtronic/SL-052720-31240-29.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1674466176975' alt='top-attach-two'/>
           </div>
         </div>
       </main>
