@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/softtronic-react/static/css/main.4a9c4f44.css",
+    "main.js": "/softtronic-react/static/js/main.e423c7fb.js",
+    "index.html": "/softtronic-react/index.html",
+    "main.4a9c4f44.css.map": "/softtronic-react/static/css/main.4a9c4f44.css.map",
+    "main.e423c7fb.js.map": "/softtronic-react/static/js/main.e423c7fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9c4f44.css",
+    "static/js/main.e423c7fb.js"
+  ]
+}
